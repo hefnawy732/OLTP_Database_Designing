@@ -28,3 +28,11 @@ This design covers the full lifecycle from **logical modeling (ERD)** to **physi
 
 ---
 For Conceptual Data Model + Logical Data Model: https://www.canva.com/design/DAGxMieJxa0/UhCBB-QwUkWcVGvm-nOrhA/edit?utm_content=DAGxMieJxa0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+<img width="817" height="457" alt="image" src="https://github.com/user-attachments/assets/20fbd06f-72f4-4ac1-82a7-fc1c2d347567" />
+
+<img width="1317" height="676" alt="image" src="https://github.com/user-attachments/assets/bee55990-fbaa-4e92-a6a2-ec5df440b124" />
+
+<img width="752" height="672" alt="image" src="https://github.com/user-attachments/assets/e7a33268-d3b9-4d37-8063-5efc4221f43f" />
+
+
